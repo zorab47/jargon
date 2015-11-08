@@ -1,5 +1,7 @@
 [date: 2015-10-31]
 [summary: Any content you write in this tag will be used as your article's summary on listing pages. If you don't include a summary tag, we'll take the first paragraph from the article itself.]
+[tag: tag-one]
+[tag: tag-two]
 
 # This Is An Example Title
 
