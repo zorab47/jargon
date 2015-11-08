@@ -26,4 +26,4 @@ We'll automatically detect which languages you use in your posts and add a tag f
 
 ### Bio
 
-Anything you add to your repo's bio.txt file will show up on your profile page, as well as any articles you post. We truncate at 250 characters.
+Anything you add to your repo's bio.txt file will show up on your profile page and any articles you post. We truncate at 250 characters.
