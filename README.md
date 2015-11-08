@@ -23,3 +23,7 @@ This will embed lines 18-24 from the file `foo.rb` stored in the `/snippets` fol
 ### Tags
 
 We'll automatically detect which languages you use in your posts and add a tag for each one. You can also manually add tags with the `[tag: ]`... tag. You can find an example [here](https://github.com/jargon-io/jargon/blob/master/articles/example.md).
+
+### Bio
+
+Anything you add to your repo's bio.txt file will show up on your profile page, as well as any articles you post. We truncate at 250 characters.
