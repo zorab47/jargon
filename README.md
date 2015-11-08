@@ -2,6 +2,8 @@
 
 To publish on [jargon](http://jargon.io), just fork this repo and check your Markdown articles into the `/articles` directory. We'll automatically detect your checkins and publish your content.
 
+Once we detect your changes, your articles will appear at [jargon.io/yourgithubusername](http://jargon.io/yourgithubusername).
+
 ### Extended Markdown
 
 Jargon supports an extended version of [GitHub-flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). In addition to normal fenced code blocks, you can also reference code files stored in your `/snippets` directory.
