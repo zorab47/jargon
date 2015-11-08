@@ -1,8 +1,6 @@
 ## jargon
 
-To publish on [jargon](http://jargon.io), just fork this repo and check your Markdown articles into the `/articles` directory. We'll automatically detect your checkins and publish your content.
-
-Once we detect your changes, your articles will appear at [jargon.io/yourgithubusername](http://jargon.io/yourgithubusername).
+To post on [jargon](http://jargon.io), just fork this repo and check your Markdown-formatted articles into the `/articles` directory. We'll automatically detect and publish your content at [jargon.io/yourgithubusername](http://jargon.io/yourgithubusername).
 
 ### Extended Markdown
 
